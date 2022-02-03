@@ -1,0 +1,6 @@
+Instrukcja gry:
+
+1. Wpisz swoje imie.
+2. Wybierz liczbe rund (ile razy chcesz rzucic koscmi).
+3. Automatycznie zostana zsumowane twoje punkty.
+4. Jezeli uda Ci sie wyrzucic dwie takie same wartosci obok siebie, suma Twoich punktow zostanie podwojona.
